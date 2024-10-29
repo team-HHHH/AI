@@ -99,8 +99,8 @@ def detect_text(
      "title" : string,
      "summary" : string,
      "participants" : string,
-     "start_date" : yyyy-mm-dd,
-     "end_date" : yyyy-mm-dd
+     "startDate" : yyyy-mm-dd,
+     "endDate" : yyyy-mm-dd
     }}
     Please leave unspecified items blank with ""
     :
